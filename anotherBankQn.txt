@@ -1,0 +1,39 @@
+1. Bank Management System Form
+
+< Previous
+
+Nest >
+
+40
+
+You are tasked with creating a Bank Management System form using HTML and CSS. The form will be used for collecting customer Information during account creation. Your goal is to apply different types of CSS styles (Inline, External, and Embedded) to format and enhance the appearance of the form. com
+
+Requirements:
+
+1. Create the HTML Form: Design an HTML form that includes input fields for the following customer information:
+
+Full Name (text input)
+
+Date of Birth (date input)
+
+Gender (radio buttons for Male and Female)
+
+Address (text area input)
+
+Account Type (select dropdown with options: Savings, Current, Fixed Deposit)
+
+Initial Deposit (number input)
+
+Agree to Terms and Conditions (checkbox)
+
+2. Apply Inline CSS: Use inline CSS to style the form elements, such as setting different font styles, colors, and alignments. Apply inline styles directly within the HTML tags to give the form a basic visual appeal.
+
+3. Create an External CSS File: Create a separate CSS file (e.g., styles.css) and link it to the HTML page using the <link> tag. In the external CSS file, apply styles to the form elements to make it visually attractive. Use CSS classes and IDs to target specific elements and apply styles accordingly.
+
+4. Use Embedded CSS: Within the <head> section of the HTML page, embed CSS styles to modify the appearance of the form elements. These embedded styles should complement the external and inline styles and should not conflict with them.
+
+5. Implement Responsive Design: Use CSS media queries to create a responsive design that adjusts the layout and font size based on different screen sizes. The form should be user-friendly and visually appealing on both desktop and mobile devices.
+
+6. Validate the CSS: Ensure that the CSS code is valid and does not contain any syntax errors.
+
+7. Use CSS Comments: Include comments in the CSS code to explain the purpose of specific
